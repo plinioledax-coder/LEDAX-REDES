@@ -1,0 +1,717 @@
+{
+    "ENDERECO_LOJA::R. JOSÉ MOREIRA, 670 - PARQUE SANTA MARIA, FORTALEZA - CE, 60873-195": [
+        -3.857316,
+        -38.5024134,
+        "670, Rua José Moreira, Parque Santa Maria, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60873-195, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. PROFESSOR JOSÉ ARTHUR DE CARVALHO, 520 - LAGOA REDONDA, FORTALEZA - CE, 60831-370": [
+        -3.8265782,
+        -38.4739036,
+        "520, Avenida Professor José Arthur de Carvalho, Sítio Curió, Lagoa Redonda, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60831-370, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. PROFESSOR JOSÉ ARTHUR DE CARVALHO, 1512 - LAGOA REDONDA, FORTALEZA - CE, 60831-370": [
+        -3.8272081,
+        -38.4693926,
+        "Avenida Professor José Arthur de Carvalho, Sítio Curió, Lagoa Redonda, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60831-435, Brasil"
+    ],
+    "ENDERECO_LOJA::R. VITAL BRASIL, 2109 - GRANJA PORTUGAL, FORTALEZA - CE, 60541-495": [
+        -3.7778804,
+        -38.5997351,
+        "2109, Rua Vital Brasil, Granja Portugal, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60541-495, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. ENGENHEIRO AGRÔNOMO JOSÉ GUIMARÃES DUQUE, 62 - PARQUE IRACEMA, FORTALEZA - CE, 60824-138": [
+        -3.8033064,
+        -38.4950569,
+        "Centerbox, 62, Avenida Engenheiro Agrônomo José Guimarães Duque, Parque Iracema, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60824-138, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. CEL. CARVALHO, 901 - BARRA DO CEARÁ, FORTALEZA - CE, 60330-778": [
+        -3.7073493,
+        -38.5904718,
+        "Avenida Coronel Carvalho, Barra do Ceará, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60330-778, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. BERNARDO MANUEL, 10070 - RACHEL DE QUEIROZ, FORTALEZA - CE, 60761-282": [
+        -3.806802,
+        -38.5549871,
+        "10070, Avenida Bernardo Manuel, Rachel de Queiroz, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60761-282, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. CEL. CARVALHO, 1261 - BARRA DO CEARÁ, FORTALEZA - CE, 60330-778": [
+        -3.7073493,
+        -38.5904718,
+        "Avenida Coronel Carvalho, Barra do Ceará, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60330-778, Brasil"
+    ],
+    "ENDERECO_LOJA::R. JOSÉ BASTOS, 4400 - PANAMERICANO, FORTALEZA - CE, 60442-108": [
+        -3.7573764,
+        -38.5613841,
+        "Avenida Américo Barreira, Panamericano, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60442-005, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA PROFESSOR LINO ENCARNAÇÃO, 869 - PARQUELÂNDIA FORTALEZA - CE, 60455-515": [
+        -3.7407266,
+        -38.5607546,
+        "Rua Professor Lino Encarnação, Parquelândia, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60455-473, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. FREI CIRILO, 4000 - MESSEJANA, FORTALEZA - CE, 60845-285": [
+        -3.8188696,
+        -38.4971012,
+        "4000, Avenida Frei Cirilo, Messejana, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60841-568, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. SANTOS DUMONT, 6500 - PAPICU, FORTALEZA - CE, 60190-800": [
+        -3.7413898,
+        -38.4823969,
+        "Avenida Santos Dumont, Papicu, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60190-800, Brasil"
+    ],
+    "ENDERECO_LOJA::R. ALBERTO DE OLIVEIRA, 1739 - BARRA DO CEARÁ, FORTALEZA - CE, 60330-530": [
+        -3.7084497,
+        -38.5757079,
+        "Rua Alberto de Oliveira, Barra do Ceará, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60331-390, Brasil"
+    ],
+    "ENDERECO_LOJA::R. CACILDA BECKER, 270 - JOÃO XXIII, FORTALEZA - CE, 60525-570": [
+        -3.7727955,
+        -38.5880409,
+        "Centerbox, 270, Rua Cacilda Becker, João XXIII, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60060-091, Brasil"
+    ],
+    "ENDERECO_LOJA::R. CÔNEGO DE CASTRO, 3918 - PARQUE SÃO JOSÉ, FORTALEZA - CE, 60730-202": [
+        -3.8042027,
+        -38.5911987,
+        "Avenida Cônego de Castro, Novo Mondubim, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60764-205, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA JOSÉ MENDONÇA, 690 - GENIBAÚ, FORTALEZA - CE, 60534-090": [
+        -3.7565277,
+        -38.602489,
+        "Centerbox, 690, Rua José Mendonça, Genibaú, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60534-090, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA SARGENTO JOÃO PINHEIRO, 610 - GRANJA LISBOA FORTALEZA - CE, 60540-511": [
+        -3.7794201,
+        -38.6218446,
+        "Rua Sargento João Pinheiro, Granja Lisboa, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60540-511, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA OCTAVIO MANGABEIRA, 3300, COSTA AZUL, SALVADOR / BA": [
+        -12.9955305,
+        -38.4419507,
+        "Avenida Octávio Mangabeira, Costa Azul, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41760-120, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA PRESIDENTE JOAO GOULART, 171, CENTRO, JEQUIÉ / BA": [
+        -13.864828,
+        -40.0791518,
+        "Avenida Presidente João Goulart, Centro, Jequié, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 45206-191, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DE CAMPINAS, 000121, SAO CAETANO, SALVADOR / BA": [
+        -12.9327565,
+        -38.481508,
+        "Estrada de Campinas, São Caetano, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40391-161, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA OLIVIA FLORES, SN, CANDEIAS, VITÓRIA DA CONQUISTA / BA": [
+        -14.878278,
+        -40.8146857,
+        "Avenida Olívia Flores, Inocoop II, Candeias, Vitória da Conquista, Região Geográfica Imediata de Vitória da Conquista, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 45029-102, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA DAS PALMEIRAS, S/N, QUINTAS DO MORUMBI, ITAPETINGA / BA": [
+        -15.2532305,
+        -40.2609403,
+        "Avenida das Palmeiras, Cohab Laís Góes, Quintas do Morumbi, Itapetinga, Região Geográfica Imediata de Itapetinga, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 45700-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA DO BALNEARIO, 000390, AMARALINA, SALVADOR / BA": [
+        -13.0126718,
+        -38.471242,
+        "Rua do Balneário, Amaralina, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41900-050, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ABELARDO ANDRADE DE CARVALHO, 000472, BOCA DO RIO, SALVADOR / BA": [
+        -12.9783693,
+        -38.4282104,
+        "Rua Abelardo Andrade de Carvalho, Boca do Rio, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41715-030, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA NILO PECANHA, 000233, CALCADA, SALVADOR / BA": [
+        -12.9401236,
+        -38.4930468,
+        "Rua Nilo Peçanha, Calçada, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40450-131, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA AFRANIO PEIXOTO, 003913, LOBATO, SALVADOR / BA": [
+        -12.9158955,
+        -38.4805823,
+        "Avenida Afrânio Peixoto, Boa Vista do Lobato, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40470-630, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA CARIMBAMBA, 0000SN, PITUACU, SALVADOR / BA": [
+        -12.9686645,
+        -38.4088577,
+        "Avenida Octávio Mangabeira, Pituaçu, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41760-100, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA CAMINHO DE AREIA, 88, CAMINHO DE AREIA, SALVADOR / BA": [
+        -12.9322641,
+        -38.5056397,
+        "Avenida Jericó, Caminho de Areia, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41211-121, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA URSICINO PINTO DE QUEIROZ, 58, CENTRO, SANTO ANTÔNIO DE JESUS / BA": [
+        -12.9662721,
+        -39.2623048,
+        "Avenida Ursicino Pinto de Queiroz, Centro, Santo Antônio de Jesus, Região Geográfica Imediata de Santo Antônio de Jesus, Região Geográfica Intermediária de Santo Antônio de Jesus, Bahia, Região Nordeste, 44430-088, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA EUNAPOLIS, S/N, MANGABEIRA, FEIRA DE SANTANA / BA": [
+        -12.2125211,
+        -38.9440388,
+        "Rua Eunápolis, Conjunto João Paulo II, Mangabeira, Feira de Santana, Região Geográfica Imediata de Feira de Santana, Região Metropolitana de Feira de Santana, Região Geográfica Intermediária de Feira de Santana, Bahia, Região Nordeste, 44100-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA OCTAVIO MANGABEIRA, 012235, ITAPUA, SALVADOR / BA": [
+        -12.9504659,
+        -38.3677963,
+        "Avenida Octávio Mangabeira, Itapuã, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41610-011, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA B, SN, NOVA CALIFORNIA, ITABUNA / BA": [
+        -14.7655029,
+        -39.2583362,
+        "Rua B, Nova Califórnia, Itabuna, Região Geográfica Imediata de Ilhéus – Itabuna, Região Geográfica Intermediária de Ilhéus-Itabuna, Bahia, Região Nordeste, 45604-020, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA FREDERICO COSTA, 000146, PERIPERI, SALVADOR / BA": [
+        -12.8666481,
+        -38.4750974,
+        "Rua Frederico Costa, Rio Sena, Periperi, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40725-610, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ELIAS NAZARE, 22, CALCADA, SALVADOR / BA": [
+        -12.9480884,
+        -38.5007906,
+        "Rua Elias Nazaré, Calçada, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40366-405, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA CONDE DE PORTO ALEGRE, 165, IAPI, SALVADOR / BA": [
+        -12.9553501,
+        -38.4783831,
+        "Rua Conde de Porto Alegre, IAPI, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40080-002, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA GENERAL SAN MARTIN, 000821, IAPI, SALVADOR / BA": [
+        -12.9509073,
+        -38.4775697,
+        "Avenida General San Martin, IAPI, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40354-135, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA LUIS VIANA FILHO, 006282, PATAMARES, SALVADOR / BA": [
+        -12.9346686,
+        -38.3937351,
+        "Avenida Luís Viana Filho, Patamares, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41701-005, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA AFRANIO PEIXOTO, 6156, LOBATO, SALVADOR / BA": [
+        -12.9158955,
+        -38.4805823,
+        "Avenida Afrânio Peixoto, Boa Vista do Lobato, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40470-630, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA SAO CRISTOVAO, 000301, SAO CRISTOVAO, SALVADOR / BA": [
+        -12.9193968,
+        -38.3529564,
+        "Avenida São Cristóvão, São Cristóvão, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41510-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA SARGENTO ANTONIO PEDRO, 13, 57480-000, DELMIRO GOUVEIA - AL": [
+        -9.3778082,
+        -38.0078721,
+        "Rua Sargento Antônio Pedro, Eldorado, Delmiro Gouveia, Região Geográfica Imediata de Delmiro Gouveia, Região Geográfica Intermediária de Arapiraca, Alagoas, Região Nordeste, 57480-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. RIO BRANCO , 614 A, 57305-025, ARAPIRACA - AL": [
+        -9.7554779,
+        -36.6638891,
+        "Avenida Rio Branco, Centro, Arapiraca, Região Geográfica Imediata de Arapiraca, Região Geográfica Intermediária de Arapiraca, Alagoas, Região Nordeste, 57300-010, Brasil"
+    ],
+    "ENDERECO_LOJA::AV MENINO MARCELO, S/N, 57073-470, MACEIÓ - AL": [
+        -9.5617954,
+        -35.7687981,
+        "Avenida Menino Marcelo, Salvador Lyra, Tabuleiros dos Martins, Maceió, Região Geográfica Imediata de Maceió, Região Geográfica Intermediária de Maceió, Alagoas, Região Nordeste, 57073-470, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. MENINO MARCELO, 9730, 57046-000, MACEIÓ - AL": [
+        -9.6117233,
+        -35.7199769,
+        "GBarbosa, 9730, Avenida Menino Marcelo, Serraria, Maceió, Região Geográfica Imediata de Maceió, Região Geográfica Intermediária de Maceió, Alagoas, Região Nordeste, 57046-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. JOSÉ HEMETÉRIO DE CARVALHO, 1631, 48601-320, PAULO AFONSO - BA": [
+        -9.4016641,
+        -38.2296823,
+        "Avenida José Hemetério de Carvalho, Perpétuo do Socorro, Paulo Afonso, Região Geográfica Imediata de Paulo Afonso, Região Geográfica Intermediária de Paulo Afonso, Bahia, Região Nordeste, 48601-320, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA PRINCESA ISABEL, S/N, 48903-130, JUAZEIRO - BA": [
+        -9.4133639,
+        -40.5118033,
+        "Rua Princesa Isabel, Mussambe, Santo Antônio, Juazeiro, Região Geográfica Imediata de Juazeiro, Região Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro, Região Geográfica Intermediária de Juazeiro, Bahia, Região Nordeste, 48903-130, Brasil"
+    ],
+    "ENDERECO_LOJA::R. COMENDADOR GOMES, 44064-000, FEIRA DE SANTANA - BA": [
+        -12.2938772,
+        -38.9502588,
+        "Rua Comendador Gomes, Feira VII, Subae, Feira de Santana, Região Geográfica Imediata de Feira de Santana, Região Metropolitana de Feira de Santana, Região Geográfica Intermediária de Feira de Santana, Bahia, Região Nordeste, 44090-264, Brasil"
+    ],
+    "ENDERECO_LOJA::R. FREDERICO COSTA, 534, 40243-045, SALVADOR - BA": [
+        -12.9826923,
+        -38.4992963,
+        "GBarbosa, 534, Rua Frederico Costa, Boa Vista de Brotas, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40243-045, Brasil"
+    ],
+    "ENDERECO_LOJA::PRAÇA DA BANDEIRA, 01, 48005-170, ALAGOINHAS - BA": [
+        -12.1386393,
+        -38.4249086,
+        "Praça da Bandeira, Centro, Alagoinhas, Região Geográfica Imediata de Alagoinhas, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 48005-010, Brasil"
+    ],
+    "ENDERECO_LOJA::ALAMEDA EUVALDO LUZ, 92, 41098-020, SALVADOR - BA": [
+        -12.9704431,
+        -38.4742566,
+        "Shopping Bela Vista, 92, Alameda Euvaldo Luz, Horto Bela Vista, Pernambués, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41098-020, Brasil"
+    ],
+    "ENDERECO_LOJA::BARÃO DE COTEGIPE, 1106, 44025-030, FEIRA DE SANTANA - BA": [
+        -12.2579408,
+        -38.9628739,
+        "Rua Barão de Cotegipe, Centro, Santana, Feira de Santana, Região Geográfica Imediata de Feira de Santana, Região Metropolitana de Feira de Santana, Região Geográfica Intermediária de Feira de Santana, Bahia, Região Nordeste, 44001-808, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. EVÊNCIA BRITO, 134, 48400-000, RIBEIRA DO POMBAL - BA": [
+        -10.8401964,
+        -38.5332028,
+        "Avenida Evência Brito, Centro, Ribeira do Pombal, Região Geográfica Imediata de Ribeira do Pombal, Região Geográfica Intermediária de Paulo Afonso, Bahia, Região Nordeste, 48400-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA PADRE ANCHIETA, 165, 45998-002, TEIXEIRA DE FREITAS - BA": [
+        -17.3434314,
+        -39.22176,
+        "Rua Padre Anchieta, Expedito Cordeiro, Prado, Região Geográfica Imediata de Teixeira de Freitas, Região Geográfica Intermediária de Ilhéus-Itabuna, Bahia, Região Nordeste, 45980-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. OLIVIA FLORES, S/N, 45028-100, VITÓRIA DA CONQUISTA - BA": [
+        -14.8574172,
+        -40.8290851,
+        "Avenida Olívia Flores, BNH, Candeias, Vitória da Conquista, Região Geográfica Imediata de Vitória da Conquista, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 45028-110, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA INDUSTRIAL MARITA ALMEIDA S/N, 45400-000, VALENÇA - BA": [
+        -13.3680084,
+        -39.0753704,
+        "Avenida Industrial Marita Almeida, São Felix, Valença, Região Geográfica Imediata de Valença, Região Geográfica Intermediária de Santo Antônio de Jesus, Bahia, Região Nordeste, 45400-000, Brasil"
+    ],
+    "ENDERECO_LOJA::PRAÇA DA BANDEIRA, 228, 45200-310, JEQUIÉ - BA": [
+        -13.5295892,
+        -39.9687128,
+        "Praça da Bandeira, Jaguaquara, Região Geográfica Imediata de Jequié, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 45345-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA DEDÉ BRASIL, 400, 60740-002, FORTALEZA - CE": [
+        -3.7786121,
+        -38.5620133,
+        "GBarbosa, 400, Avenida Doutor Silas Munguba, Parangaba, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60060-091, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA BORGES DE MELO, 1135, 60415-510, FORTALEZA - CE": [
+        -3.7607757,
+        -38.5295249,
+        "GBarbosa, 1135, Avenida Borges de Melo, Parreão, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60410-335, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA PARSIFAL BARROSO, 600, 60355-630, FORTALEZA - CE": [
+        -3.7316408,
+        -38.570269,
+        "GBarbosa, 600, Avenida Governador Parsifal Barroso, Presidente Kennedy, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60355-632, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. WASHINGTON SOARES, 1779, 60811-341, FORTALEZA - CE": [
+        -3.7749108,
+        -38.481187,
+        "GBarbosa, 1779, Avenida Washington Soares, Edson Queiroz, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60811-341, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA PADRE VALDEVINO, 920, 60135-040, FORTALEZA - CE": [
+        -3.7396656,
+        -38.516222,
+        "GBarbosa, 920, Rua Padre Valdevino, Joaquim Távora, Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, 60135-040, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DA INTEGRAÇÃO, 583, 56328-010, PETROLINA - PE": [
+        -9.3914688,
+        -40.4863653,
+        "Avenida da Integração, Vila eduardo, Petrolina, Região Geográfica Imediata de Petrolina, Região Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro, Região Geográfica Intermediária de Petrolina, Pernambuco, Região Nordeste, 56328-010, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA MINISTRO NELSON HUNGRIA, 155, 49045-510, ARACAJU - SE": [
+        -10.9339779,
+        -37.063593,
+        "GBarbosa, 155, Rua Ministro Nelson Hungria, Luzia, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49045-510, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DEPUTADO SÍLVIO TEIXEIRA, 831, 49025-100, ARACAJU - SE": [
+        -10.9391031,
+        -37.0604063,
+        "Avenida Deputado Sílvio Teixeira, Grageru, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-100, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. COELHO E CAMPOS, 215, 49010-720, ARACAJU - SE": [
+        -10.9063428,
+        -37.0514774,
+        "GBarbosa, 215, Avenida Coelho e Campos, Centro, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49010-230, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA JOSÉ DO PRADO FRANCO, 148, 49010-110, ARACAJU - SE": [
+        -10.9075238,
+        -37.0491918,
+        "Rua José do Prado Franco, Centro, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49010-110, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA LUIZ CHAGAS, 55, 49037-430, ARACAJU - SE": [
+        -10.9845797,
+        -37.054533,
+        "Supermercado GBarbosa Atalaia, 55, Rua Luiz Chagas, Atalaia, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49037-837, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA MURIBECA, 310, 49060-470, ARACAJU - SE": [
+        -10.8983778,
+        -37.0593385,
+        "Rua Muribeca, Sanatório, Santo Antônio, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49060-470, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. POÇO DO MERO, 285, 49090-000, ARACAJU - SE": [
+        -10.8917837,
+        -37.0939336,
+        "GBarbosa, 285, Avenida Geniz Góis, Assis Chateaubriand, Bugio, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49090-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. HERÁCLITO ROLLEMBERG, 2676, 49030-640, ARACAJU - SE": [
+        -10.9759597,
+        -37.0734599,
+        "Rua Embaixador Ernesto José Francisco, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-290, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. AUGUSTO FRANCO, 3280, 49047-040, ARACAJU - SE": [
+        -10.9084579,
+        -37.065698,
+        "Avenida Augusto Franco, Getúlio Vargas, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49055-620, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. ALEXANDRE ALCINO, 2155, 49044-090, ARACAJU - SE": [
+        -10.9862819,
+        -37.0978565,
+        "GBarbosa, 2155, Avenida Alexandre Alcino, Santa Maria, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49044-090, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. SETE DE JUNHO, 380/386, 49300-000, TOBIAS BARRETO - SE": [
+        -11.1870925,
+        -38.0015583,
+        "Avenida Sete de Junho, Centro, Tobias Barreto, Região Geográfica Imediata de Lagarto, Região Geográfica Intermediária de Itabaiana, Sergipe, Região Nordeste, 49300-000, Brasil"
+    ],
+    "ENDERECO_LOJA::PRAÇA SILVIO ROMERO, 48/52, 49400-000, LAGARTO - SE": [
+        -10.9164131,
+        -37.6690978,
+        "Praça Sílvio Romero, Centro, Lagarto, Região Geográfica Imediata de Lagarto, Região Geográfica Intermediária de Itabaiana, Sergipe, Região Nordeste, 49400-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. 1, 13, 49160-000, NOSSA SENHORA DO SOCORRO - SE": [
+        -10.8572172,
+        -37.0823301,
+        "GBarbosa, 13, Avenida Nossa Senhora do Socorro, João Alves, Nossa Senhora do Socorro, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49155-390, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. FRANCISCO PORTO, 250, 49020-120, ARACAJU - SE": [
+        -10.9351113,
+        -37.0513292,
+        "Avenida Francisco Porto, 13 de Julho, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49020-120, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. COLETORA A, S/N, 49160-000, NOSSA SENHORA DO SOCORRO - SE": [
+        -10.8523588,
+        -37.0806843,
+        "Avenida Coletora A, João Alves, Nossa Senhora do Socorro, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49155-390, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. MELÍCIO MACHADO, 1060, 49037-440, ARACAJU - SE": [
+        -10.9950439,
+        -37.0664569,
+        "GBarbosa, 1060, Avenida Melício Machado, Beira Mar I, Aeroporto, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49038-300, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. OSVALDO ARANHA, 1240, 49085-100, ARACAJU - SE": [
+        -10.9070103,
+        -37.0858837,
+        "Farmácia Hiper Norte, 1240, Avenida Chanceler Osvaldo Aranha, Novo Paraíso, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49085-000, Brasil"
+    ],
+    "ENDERECO_LOJA::PRAÇA JOÃO ALVES DO NASCIMENTO, 108, 49200-000, ESTÂNCIA - SE": [
+        -11.2673219,
+        -37.4397445,
+        "GBarbosa, 108, Praça da Bandeira, Residencial Paraíso, Centro, Estância, Região Geográfica Imediata de Estância, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49200-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. SINDICALISTA ANTÔNIO FRANCISCO DA ROCHA, 100, 49400-000, LAGARTO - SE": [
+        -10.9203442,
+        -37.6660281,
+        "Avenida Sindicalista Antonio Francisco da Rocha, Centro, Lagarto, Região Geográfica Imediata de Lagarto, Região Geográfica Intermediária de Itabaiana, Sergipe, Região Nordeste, 49400-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA MAJOR AURELIANO, 305, 49087-400, ARACAJU - SE": [
+        -10.8949618,
+        -37.0806083,
+        "GBarbosa, 305, Rua Major Aureliano, Santos Dumont, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49087-400, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. FRANCISCO JOSÉ DA FONSECA, 1337, 49042-000, ARACAJU - SE": [
+        -10.9678526,
+        -37.0874709,
+        "Farmácia GBarbosa, 1337, Avenida Francisco José da Fonseca, São Conrado, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49042-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA OCEÂNICA, 1025, 49140-970, BARRA DOS COQUEIROS - SE": [
+        -10.906997,
+        -37.0278539,
+        "GBarbosa, 1025, Avenida General Antônio Sebastião Basílio Pirro, Centro, Barra dos Coqueiros, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49140-000, Brasil"
+    ],
+    "ENDERECO_LOJA::LARGO SANTO ANTÔNIO, 51, 49500-196, ITABAIANA - SE": [
+        -10.6846242,
+        -37.428142,
+        "GBarbosa, 51, Largo Santo Antônio, Centro, Itabaiana, Região Geográfica Imediata de Itabaiana, Região Geográfica Intermediária de Itabaiana, Sergipe, Região Nordeste, 49500-335, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA DIAS DA CRUZ, 579, 20720-011, RIO DE JANEIRO - RJ": [
+        -22.9052171,
+        -43.2918752,
+        "Rua Dias da Cruz, Méier, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20720-011, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA BRAZ DE PINA, 1952, 21235-603, RIO DE JANEIRO - RJ": [
+        -22.8399005,
+        -43.3098806,
+        "Avenida do Braz de Pina, Vila da Penha, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21221-380, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DO TINDIBA, 565, 22740-360, RIO DE JANEIRO - RJ": [
+        -22.9274979,
+        -43.3594605,
+        "Estrada do Tindiba, Taquara, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22740-360, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DE JACAREPAGUÁ, 7153, 22755-155, RIO DE JANEIRO - RJ": [
+        -22.9417843,
+        -43.3413934,
+        "Estrada de Jacarepaguá, Freguesia (Jacarepaguá), Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22755-155, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DO CABUÇU, 1654, 23052-230, RIO DE JANEIRO - RJ": [
+        -22.9120621,
+        -43.5456113,
+        "Estrada do Cabuçu, Campo Grande, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 23052-320, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DO GALEÃO, 1800, 21931-524, RIO DE JANEIRO - RJ": [
+        -22.8118098,
+        -43.2181947,
+        "Estrada do Galeão, Galeão, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21941-353, Brasil"
+    ],
+    "ENDERECO_LOJA::ALAMEDA SÃO BOAVENTURA, 1.012, 24120-192, NITERÓI - RJ": [
+        -22.8808128,
+        -43.1081491,
+        "Alameda São Boaventura, Ponto de Cem Réis, Santana, Região Norte, Niterói, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 24120-196, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA URANOS, 1293, 21060-005, RIO DE JANEIRO - RJ": [
+        -22.8503948,
+        -43.265358,
+        "Supermercado Prezunic, 1293, Rua Uranos, Olaria, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21060-005, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA BENTO CARDOSO, 313, 21215-000, RIO DE JANEIRO - RJ": [
+        -22.8364198,
+        -43.2879087,
+        "Rua Bento Cardoso, Penha Circular, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21215-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ITAPURU, 474, 20251-030, RIO DE JANEIRO - RJ": [
+        -22.8599324,
+        -42.3533282,
+        "Rua Itapuru, Araruama, Região Geográfica Imediata de Cabo Frio, Região Geográfica Intermediária de Macaé-Rio das Ostras-Cabo Frio, Rio de Janeiro, Região Sudeste, 28970-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DAS AMÉRICAS, 4245, 22631004, RIO DE JANEIRO - RJ": [
+        -23.0003252,
+        -43.3652334,
+        "Avenida das Américas, Barra da Tijuca, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22631-004, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. RODOLFO AMOEDO 347, 22620350, RIO DE JANEIRO - RJ": [
+        -23.0085808,
+        -43.3165303,
+        "Avenida Rodolfo Amoedo, Jardim Oceânico, Barra da Tijuca, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22620-280, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA AUTOMÓVEL CLUBE,1659, 25565-171, RIO DE JANEIRO - RJ": [
+        -22.848039,
+        -43.322906,
+        "Avenida Pastor Martin Luther King Junior, Irajá, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21361-132, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA GETÚLIO DE MOURA, 1591, 26525-001, RIO DE JANEIRO - RJ": [
+        -22.8066054,
+        -43.4167577,
+        "Avenida Getulio de Moura, Centro, Nilópolis, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 26525-001, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA MARECHAL FONTENELE, 5100, 21750-001, RIO DE JANEIRO - RJ": [
+        -22.8820796,
+        -43.4081403,
+        "Avenida Marechal Fontenele, Vila Militar, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21745-092, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DOS BANDEIRANTES,105, 22710-570, RIO DE JANEIRO - RJ": [
+        -22.9240628,
+        -43.37333,
+        "Prezunic, 105, Estrada dos Bandeirantes, Taquara, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22710-570, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DO TIMBÓ, 52, 21061-280, RIO DE JANEIRO - RJ": [
+        -22.8692837,
+        -43.2689338,
+        "Prezunic, 52, Estrada do Timbó, Higienópolis, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21061-280, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA TINGUI, 1333, 23076170, RIO DE JANEIRO - RJ": [
+        -22.8809199,
+        -43.5843995,
+        "Estrada do Tinguí, Salim, Campo Grande, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 23070-400, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA DAS AMÉRICAS, 13850, 22790-702, RIO DE JANEIRO - RJ": [
+        -23.0090669,
+        -43.4475289,
+        "13850, Avenida das Américas, Recreio dos Bandeirantes, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22790-280, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA DOM HÉLDER CÂMARA, 105, 20911-291, RIO DE JANEIRO - RJ": [
+        -22.8820055,
+        -43.3250179,
+        "Avenida Dom Hélder Câmara, Cascadura, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21380-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ABREU SODRÉ, 27, 24900-105, MARICÁ - RJ": [
+        -22.9134819,
+        -42.8200289,
+        "Rua Abreu Sodré, Centro, Maricá, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 24901-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA DOUTOR MANOEL REIS, 175, 25025-010, DUQUE DE CAXIAS - RJ": [
+        -22.7784709,
+        -43.3190242,
+        "Avenida Doutor Manoel Reis, Mangueirinha, Centenário, Duque de Caxias, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 25030-130, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA DOM PEDRO I, 53, 23510-010, RIO DE JANEIRO - RJ": [
+        -22.9151592,
+        -43.6820681,
+        "Prezunic, 53, Rua Dom Pedro I, Santa Cruz, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 23510-006, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA GENERAL POLIDORO, 260, 22280-003, RIO DE JANEIRO - RJ": [
+        -22.956713,
+        -43.1872568,
+        "Rua General Polidoro, Cocheira, Botafogo, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22280-003, Brasil"
+    ],
+    "ENDERECO_LOJA::JOSÉ DE ALVARENGA, 95, 25020-970, DUQUE DE CAXIAS - RJ": [
+        -22.7919409,
+        -43.3114764,
+        "TECNOMEDI CAXIAS I, 95 A, Rua José de Alvarenga, Engenho do Porto, Centro, Duque de Caxias, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 25010-080, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DAS AMÉRICAS, 16100, 22790-704, RIO DE JANEIRO - RJ": [
+        -23.0139252,
+        -43.4694369,
+        "Prezunic, 16100, Avenida das Américas, Recreio dos Bandeirantes, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22790-440, Brasil"
+    ],
+    "ENDERECO_LOJA::PRAÇA JAURU, 32, 22725-520, RIO DE JANEIRO - RJ": [
+        -22.9155783,
+        -43.3782085,
+        "Prezunic, 32, Praça Jauru, Taquara, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22725-520, Brasil"
+    ],
+    "ENDERECO_LOJA::SOUZA BARROS, 450, 20961-150, RIO DE JANEIRO - RJ": [
+        -22.9025622,
+        -43.2697759,
+        "Rua Souza Barros, Engenho Novo, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20725-001, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA CORONEL MOREIRA CÉSAR, 414 A, 24230-065, NITERÓI - RJ": [
+        -22.9029511,
+        -43.11476,
+        "Rua Ator Paulo Gustavo, Icaraí, Região Praias da Baía, Niterói, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 24230-060, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA DAS LARANJEIRAS,139, 22240-000, RIO DE JANEIRO - RJ": [
+        -22.9326914,
+        -43.1832476,
+        "Rua das Laranjeiras, Laranjeiras, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22240-000, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA CÂNDIDO BENÍCIO, 20, 21320-060, RIO DE JANEIRO - RJ": [
+        -22.8897739,
+        -43.346681,
+        "Rua Cândido Benício, Praça Seca, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21320-060, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA URUGUAI, 330, 20510-055, RIO DE JANEIRO - RJ": [
+        -22.9292787,
+        -43.2432108,
+        "Rua Uruguai, Muda, Tijuca, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20530-500, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA VOLUNTÁRIOS DA PÁTRIA, 222, 22270-012, RIO DE JANEIRO - RJ": [
+        -22.9540802,
+        -43.1919127,
+        "Rua Voluntários da Pátria, Cocheira, Botafogo, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22270-010, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. EDUARDO FRÓES DA MOTA, 6281, 44053-005, FEIRA DE SANTANA - BA": [
+        -12.2303557,
+        -38.9651445,
+        "Avenida Eduardo Froes da Mota, Baraúnas, Santana, Feira de Santana, Região Geográfica Imediata de Feira de Santana, Região Metropolitana de Feira de Santana, Região Geográfica Intermediária de Feira de Santana, Bahia, Região Nordeste, 44021-215, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ISMAR ARAÚJO, 168, 41235-010, SALVADOR - BA": [
+        -12.9152387,
+        -38.4425012,
+        "Rua Ismar Araújo, Jardim Cajazeiras, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41245-020, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA OITO DE NOVEMBRO, 6 - PIRAJÁ, 41290-200, SALVADOR - BA": [
+        -12.9013471,
+        -38.463458,
+        "Rua 8 de Novembro, Pirajá, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40290-200, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. GENERAL GRAÇA LESSA, 304, ACUPE DE BROTAS, 40290-500, SALVADOR - BA": [
+        -12.9927605,
+        -38.4954201,
+        "Mercantil Rodrigues, 304, Avenida General Graça Lessa, Vila Iolanda Pires, Engenho Velho de Brotas, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40240-325, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. JEQUITAIA, 411 - CALÇADA, 40411-000, SALVADOR - BA": [
+        -12.9495633,
+        -38.5010904,
+        "Avenida Jequitaia, Calçada, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40366-405, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA GENERAL SAN MARTIN, 496, 40354-185, SALVADOR - BA": [
+        -12.9509073,
+        -38.4775697,
+        "Avenida General San Martin, IAPI, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40354-135, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. TANCREDO NEVES, S/N, JABOTIANA, 49095-000, ARACAJU - SE": [
+        -10.9191612,
+        -37.0847792,
+        "Avenida Tancredo Neves, Jabotiana, Aracaju, Região Geográfica Imediata de Aracaju, Região Metropolitana de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49082-096, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA PRINCESA LEOPOLDINA, 398, GRAÇA, SALVADOR - BA, 40150-080": [
+        -13.0017276,
+        -38.5244973,
+        "Perini, 398, Avenida Princesa Leopoldina, Graça, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40150-080, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA MARANHÃO, 64, PITUBA, SALVADOR - BA, 41830-260": [
+        -13.0071865,
+        -38.4651582,
+        "Rua Maranhão, Vila Bolandeira, Pituba, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41830-270, Brasil"
+    ],
+    "ENDERECO_LOJA::R. KOSHUN TAKARA, 900, 026‍71-110, SÃO PAULO - SP": [
+        -23.4631092,
+        -46.6614375,
+        "Giga Atacado - Cachoeirinha, 900, Rua Koshun Takara, Jardim Peri, Cachoeirinha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02671-110, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. OTAVIANO ALVES DE LIMA, 2758, 02701-000, SÃO PAULO - SP": [
+        -23.5085951,
+        -46.6839323,
+        "Giga Atacado, 2758, Avenida Otaviano Alves de Lima, Limão, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02701-000, Brasil"
+    ],
+    "ENDERECO_LOJA::ALAMEDA ARAGUAIA, 2879, 06455-000, BARUERI - SP": [
+        -23.4976992,
+        -46.8551168,
+        "Alameda Araguaia, Alphaville, Barueri, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06455-000, Brasil"
+    ],
+    "ENDERECO_LOJA::R. ZUFEREY, 280, 13202-265, JUNDIAÍ - SP": [
+        -23.2025558,
+        -46.878037,
+        "Rua Zuferey, Jardim Dupré, Vila Arens, Jundiaí, Região Imediata de Jundiaí, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13202-550, Brasil"
+    ],
+    "ENDERECO_LOJA::R. BÁRBARA HIPÓLITO CAPRIOTTI, 06395-000, CARAPICUÍBA - SP": [
+        -23.5268537,
+        -46.8509475,
+        "Avenida Bárbara Hipólito Capriotti, Vila Sul Americana, Vila Silviânia, Carapicuíba, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06396-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. CEL. SEZEFREDO FAGUNDES, 1928,02306-002, SÃO PAULO - SP": [
+        -23.4621539,
+        -46.6030041,
+        "1928, Avenida Coronel Sezefredo Fagundes, Tremembé, Tucuruvi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02306-000, Brasil"
+    ],
+    "ENDERECO_LOJA::R. SOROCABA, 285, 13222-005, VÁRZEA PAULISTA - SP": [
+        -23.206866,
+        -46.8334507,
+        "Giga Atacado, 285, Rua Sorocaba, Jardim do Lar, Várzea Paulista, Região Imediata de Jundiaí, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13220-001, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DOS REMÉDIOS, 2555, 05107-002, SÃO PAULO - SP": [
+        -23.5091756,
+        -46.7617202,
+        "2555, Avenida dos Remédios, Vila dos Remédios, Jaguara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06296-060, Brasil"
+    ],
+    "ENDERECO_LOJA::AV. DAS NAÇÕES UNIDAS, 16461, 04795-100, SÃO PAULO - SP": [
+        -23.6614841,
+        -46.711943,
+        "Avenida das Nações Unidas, Santo Amaro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04795-100, Brasil"
+    ],
+    "ENDERECO_LOJA::R. DA GLÓRIA, 214 - GLÓRIA, RIO DE JANEIRO - RJ, 20241-180": [
+        -22.9188596,
+        -43.1771066,
+        "Rua da Glória, Glória, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20241-180, Brasil"
+    ],
+    "ENDERECO_LOJA::R. FARME DE AMOEDO, 83 - IPANEMA, RIO DE JANEIRO - RJ, 22420-020": [
+        -22.9828586,
+        -43.2006317,
+        "Rua Farme de Amoedo, Ipanema, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22420-020, Brasil"
+    ],
+    "ENDERECO_LOJA::R. DIAS DA CRUZ, 579 - MÉIER, RIO DE JANEIRO - RJ, 20720-011": [
+        -22.9052171,
+        -43.2918752,
+        "Rua Dias da Cruz, Méier, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20720-011, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA ALCINDO CACELA, 1848, NAZARE, BELÉM - PA, 66040-020": [
+        -1.4524832,
+        -48.4777468,
+        "1848, Avenida Alcindo Cacela, Nazaré, Belém, Região Geográfica Imediata de Belém, Região Geográfica Intermediária de Belém, Pará, Região Norte, 66040-020, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA GOVERNADOR JOSE MALCHER, 2388, SÃO BRAS, BELÉM - PA, 66060-232": [
+        -1.4494229,
+        -48.4720367,
+        "+B Supermercados, 2388, Avenida Governador José Malcher, São Brás, Sacramenta, Belém, Região Geográfica Imediata de Belém, Região Geográfica Intermediária de Belém, Pará, Região Norte, 66063-383, Brasil"
+    ],
+    "ENDERECO_LOJA::ESTRADA DO TAPANA, SN, TAPANA (ICOARACI), BELÉM - PA, 66825-010": [
+        -1.322344,
+        -48.4848892,
+        "Rodovia Artur Bernardes, Tapanã, Icoaraci, Belém, Região Geográfica Imediata de Belém, Região Geográfica Intermediária de Belém, Pará, Região Norte, 66814-000, Brasil"
+    ],
+    "ENDERECO_LOJA::AVENIDA CONSELHEIRO FURTADO, 577, BATISTA CAMPOS, BELÉM - PA, 66025-160": [
+        -1.4602149,
+        -48.4927616,
+        "577, Avenida Conselheiro Furtado, Batista Campos, Belém, Região Geográfica Imediata de Belém, Região Geográfica Intermediária de Belém, Pará, Região Norte, 66025-160, Brasil"
+    ],
+    "ENDERECO_LOJA::RUA ARTHUR DE AZEVEDO MACHADO, 3443, COSTA AZUL, SALVADOR - BA, 41760-000": [
+        -12.990506,
+        -38.447782,
+        "Rua Arthur de Azevêdo Machado, Costa Azul, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41770-000, Brasil"
+    ]
+}

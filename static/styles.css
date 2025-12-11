@@ -1,0 +1,360 @@
+/* --------------------------------- */
+/* Variáveis e Reset */
+/* --------------------------------- */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+:root {
+    --sidebar-w: 420px; 
+    --topbar-h: 56px;
+    --accent: #0f62fe;
+    --accent-dark: #004085;
+    --muted: #6b7280;
+    --bg: #f7f8fa;
+    --card-bg: #ffffff;
+    --glass: rgba(255, 255, 255, 0.95);
+    --border-color: #e5e7eb;
+}
+
+html, body {
+    height: 100%; 
+}
+
+body {
+    background-color: var(--bg);
+    overflow: hidden; 
+    height: 100vh;
+}
+
+/* Skip link */
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--accent);
+    color: white;
+    padding: 8px;
+    z-index: 9999;
+    text-decoration: none;
+}
+.skip-link:focus {
+    top: 0;
+}
+
+/* --------------------------------- */
+/* Topbar */
+/* --------------------------------- */
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: var(--topbar-h);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    background: var(--card-bg); 
+    border-bottom: 2px solid var(--accent);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    z-index: 1002;
+}
+
+.title-wrap h1 {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    color: var(--accent-dark);
+}
+
+.title-wrap .subtitle {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 2px;
+}
+@media (max-width: 500px) {
+    .title-wrap .subtitle { 
+        display: none; 
+    }
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--accent-dark);
+    font-size: 24px;
+    cursor: pointer;
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s, color 0.2s;
+}
+.icon-btn:hover {
+    background-color: var(--bg);
+    color: var(--accent);
+}
+
+/* --------------------------------- */
+/* Sidebar */
+/* --------------------------------- */
+.sidebar {
+    position: fixed;
+    top: var(--topbar-h);
+    left: 0;
+    bottom: 0;
+    width: var(--sidebar-w);
+    background-color: var(--glass);
+    backdrop-filter: blur(8px);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    z-index: 1001;
+    overflow-y: auto;
+    padding: 16px;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    border-right: 1px solid var(--border-color);
+}
+
+.sidebar.collapsed {
+    transform: translateX(calc(-1 * var(--sidebar-w)));
+    box-shadow: none; 
+}
+
+.sidebar h2 {
+    font-size: 20px;
+    color: var(--accent);
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.filter-group {
+    margin-bottom: 24px;
+    padding: 12px;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--border-color);
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+.label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #1f2937;
+    font-size: 14px;
+}
+
+
+/* Cobertura (Grid) */
+#cobertura-legend {
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    max-height: 250px;
+    min-width: 350px; 
+}
+
+/* --------------------------------- */
+/* Botões */
+/* --------------------------------- */
+.btn-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-row button {
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    flex: 1;
+    transition: background-color 0.2s, box-shadow 0.2s;
+    font-size: 14px;
+}
+
+.primary {
+    background-color: var(--accent);
+    color: white;
+    border: 1px solid var(--accent);
+}
+
+.primary:hover {
+    background-color: var(--accent-dark);
+}
+
+.ghost {
+    background-color: white;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+}
+
+.ghost:hover {
+    background-color: #f0f4ff;
+    color: var(--accent-dark);
+}
+
+/* --------------------------------- */
+/* Mapa */
+/* --------------------------------- */
+.map {
+    position: absolute; 
+    top: var(--topbar-h);
+    right: 0;
+    bottom: 0;
+    left: var(--sidebar-w);
+    transition: left 0.3s ease-in-out; 
+}
+
+.sidebar.collapsed + .map {
+    left: 0; 
+}
+
+/* --------------------------------- */
+/* Marcador Customizado */
+/* --------------------------------- */
+.network-icon div {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.network-icon {
+    width: 24px; 
+    height: 24px; 
+    border-radius: 50%;
+    border: 3px solid white;
+    opacity: 0.95;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.1s ease-in-out;
+}
+
+.network-icon:hover {
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+/* --------------------------------- */
+/* Legenda */
+/* --------------------------------- */
+.legend {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--border-color);
+}
+
+.legend-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #1f2937;
+    font-size: 14px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+#redes-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 5px; 
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#redes-legend .legend-item {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #555;
+    padding: 2px 0;
+    gap: 6px;
+}
+
+/* ===========================
+   FIX: Alinhamento dos checkboxes
+   =========================== */
+
+.checkbox-group,
+#filterRedesContainer,
+#cobertura-legend {
+    text-align: left; /* garante alinhamento de texto no container */
+}
+
+/* Linha do checkbox: força início (esquerda) */
+.checkbox-row {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important; /* <- garante alinhamento à esquerda */
+    width: 100%;
+    padding: 6px 8px;
+    gap: 0;
+    box-sizing: border-box;
+}
+
+/* Checkbox */
+.checkbox-row input[type="checkbox"] {
+    flex: 0 0 auto;
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    margin-right: 8px; /* espaço pequeno entre checkbox e label */
+    accent-color: var(--accent);
+}
+
+/* Label: usa o espaço restante, texto alinhado à esquerda */
+.checkbox-row label {
+    display: inline-flex;      /* inline-flex para comportamento inline com flex */
+    align-items: center;
+    flex: 1 1 auto;            /* ocupa espaço restante, mas sem empurrar o checkbox */
+    gap: 8px;                  /* separação entre cor e texto, se houver ícone */
+    font-size: 13px;
+    color: #374151;
+    cursor: pointer;
+    text-align: left;          /* força o texto à esquerda */
+    white-space: normal;       /* permite quebra de linha caso necessário */
+}
+
+/* Se houver um <span> dentro do label */
+.checkbox-row label span {
+    flex: 1 1 auto;
+    display: inline-block;
+    text-align: left;
+    white-space: normal;
+}
+
+/* Ícones coloridos (representantes / rede) */
+.checkbox-row label .rede-color-icon,
+.checkbox-row label div {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    flex: 0 0 auto;
+}
+
+/* Força o container do scroll a ocupar toda a largura disponível */
+.checkbox-group {
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 8px;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
