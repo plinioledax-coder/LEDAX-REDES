@@ -1,5 +1,5 @@
 // script.js
-const API = "http://localhost:8000";
+const API = "https://ledax-redes.onrender.com";
 const DOMAIN_MAP_CENTER = [-15.7801, -47.9292]; 
 const DOMAIN_MAP_ZOOM = 4;
 let map;
