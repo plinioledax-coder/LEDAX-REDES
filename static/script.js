@@ -146,7 +146,7 @@ async function fetchLojasRede() {
 
 async function fetchGeoJson() {
     try {
-        const response = await fetch('brasil_estados.geojson');
+        const response = await fetch('/static/brasil_estados.geojson');
         if (!response.ok) {
             throw new Error(`Erro ao carregar GeoJSON: ${response.statusText}`);
         }
