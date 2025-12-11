@@ -1,5 +1,5 @@
 // script.js
-const API = "https://ledax-redes.onrender.com/";
+const API = "https://ledax-redes.onrender.com";
 const DOMAIN_MAP_CENTER = [-15.7801, -47.9292];
 const DOMAIN_MAP_ZOOM = 4;
 let map;
@@ -227,7 +227,7 @@ async function fetchLojasRede() {
 async function fetchGeoJsonMunicipios() {
     try {
         // *** ATENÇÃO: Substitua pelo caminho do seu GeoJSON de MUNICÍPIOS ***
-        const response = await fetch('brasil_municipios.geojson');
+        const response = await fetch('/static/brasil_municipios.geojson');
         if (!response.ok) {
             throw new Error(`Erro ao carregar GeoJSON de municípios: ${response.statusText}`);
         }
@@ -243,7 +243,7 @@ async function fetchGeoJsonMunicipios() {
 async function fetchGeoJsonEstados() {
     try {
         // *** ATENÇÃO: Substitua pelo caminho do seu GeoJSON de ESTADOS ***
-        const response = await fetch('brasil_estados.geojson');
+        const response = await fetch('/static/brasil_estados.geojson');
         if (!response.ok) {
             throw new Error(`Erro ao carregar GeoJSON de estados: ${response.statusText}`);
         }
